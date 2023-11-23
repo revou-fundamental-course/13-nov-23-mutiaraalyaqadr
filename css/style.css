@@ -58,6 +58,6 @@ button {
 
 @media screen and (max-width: 600px) {
     .title-header {
-        background-color: red;
+        background-color: rgb(165, 200, 112);
     }
 }
