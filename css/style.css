@@ -1,0 +1,22 @@
+.nav-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: min-content;
+}
+
+.nav {
+    display: flex;
+    gap: 10px;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.title-header {
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: space-between;
+}
